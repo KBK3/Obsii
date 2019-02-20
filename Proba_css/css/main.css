@@ -1,0 +1,40 @@
+p{
+	font-family: Tahoma;
+	font-size: 25px;
+	color: #9370DB;
+	font-weight: 400;	
+	font-variant: small-caps;
+	font-style: inherit;
+	letter-spacing: 5px;
+	line-height:30px;
+	text-indent: 30px;
+	text-align: justify;
+	background-color: #FFFFFF;
+	border: 3px solid #00FFFF;
+}
+h1{
+	font-family: Arial;
+	font-size: 30px;
+	color: #800000;
+	font-weight: 600;
+	font-style: italic;
+	letter-spacing: 10px;
+	text-decoration: overline;
+	background-color: #FFFFFF;
+	border-top: 15px groove #FF6347;
+	border-left: 15px groove #FF00FF;
+	border-right: 15px groove #00008B;
+	border-bottom: 15px groove red;
+}
+h2{
+	font-family: Batang;
+	font-size: 27px;
+	color: #B22222;
+	font-weight: 900;
+	font-style: italic;
+	background-color: #FFFFFF;
+
+}
+body{
+	background-image: url("../images/1.jpg");
+}
