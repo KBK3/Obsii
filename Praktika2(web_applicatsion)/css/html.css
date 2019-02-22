@@ -1,0 +1,17 @@
+header{
+	border: 1px solid red;
+
+}
+.header_menu{
+
+	
+}
+.header_menu_li{
+	display: inline;
+	list-style: none;
+	margin-left: 5%;
+}
+.header_in_page{
+	display: inline;
+	list-style: none;
+}
